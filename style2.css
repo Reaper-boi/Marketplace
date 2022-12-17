@@ -1,0 +1,9 @@
+body{
+    background-color: azure;
+    background-image: url("moon.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 1940px;
+    font-family: 'Courier New', Courier, monospace;
+}

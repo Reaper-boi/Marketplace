@@ -1,0 +1,77 @@
+body{
+    background-color: azure;
+    background-image: url("moon.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 1940px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.title{
+    text-align: center;
+}
+
+.product-title{
+    text-align: center;
+    margin: 40px;
+}
+
+.product-image{
+    text-align: center;
+}
+
+.price{
+    text-align: center;
+}
+
+.info{
+    text-align: center;
+}
+
+.buy{
+    text-align: center;
+}
+
+.product-title2{
+    text-align: center;
+    margin: 40px;
+}
+
+.product-image2{
+    text-align: center;
+}
+
+.price2{
+    text-align: center;
+}
+
+.info2{
+    text-align: center;
+}
+
+.Buy2{
+    text-align: center;
+}
+
+.product-title3{
+    text-align: center;
+    margin: 40px
+}
+
+.product-image3{
+    text-align: center;
+}
+
+.price3{
+    text-align: center;
+}
+
+.info3{
+    text-align: center;
+}
+
+.buy3{
+    text-align: center;
+}
